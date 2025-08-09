@@ -1,0 +1,37 @@
+1 | You are driving from a monster at 100 miles per hour. There is one exit on the left, the other on the right | 2 | 3
+
+2 | You choose left where there is no other cars in your way but it is fully dark. | 4 | 5
+
+3 | You choose right where the monster cannot find you but your car is out of fuel now.  | 6 | 7
+
+4 | You drive deeper where there's more fog. Will you turn back or continue through the fog?| 8 | 9
+
+5 | You find an empty gas station. On your right you see a trail that leads to the woods. | 10 | 11
+
+6 | You find an empty gas station. However, you smell the monster and see its shadow in the distance. 12 | 13
+
+7 | You abandon the car and follow a trail that leads to an abandoned cabin. | 14 | 15
+
+8 | You turn back but the monster gets closer and eventually finds you. Game. Over. | -1 | -1
+
+9 | You choose to go through the fog and find a cliff with a bridge over the river. | 16 | 17
+
+10 | You go to the gas station to fill your car, but hear creaking noises. | 18 | -1
+
+11 | You follow the trail. You find a hidden bunker entrance. | 19 | -1
+
+12 | You hide in your car, but the monster recognizes your scent and finds you. Game. Over. | -1 | -1
+
+13 | You drive quickly and get past the monster. However, you don't see that the road ends on a cliff. Game. Over. | -1 | -1
+
+14 | You choose to go to the cabin and decide to hide inside, but the monster recognizes your shoe tracks and finds you. Game. Over. | -1 | -1
+
+15 | You continue driving the forest, but you approach a cliff. Game. Over. | -1 | -1
+
+16 | You cross the bridge. With the monster trailing behind you, the bridge breaks down due to the monster's weight, but you successfully make it right in time. You survive! | -1 | -1
+
+17 | You go to the river and find a boat. You take it and escape down the river. You survive! | -1 | -1
+
+18 | You quickly refuel and drive off before anything appears, leaving the monster far behind. You survive! | -1 | -1
+
+19 | You enter the bunker where you successfully hide until the daytime. You survive! (For now) | -1 | -1
